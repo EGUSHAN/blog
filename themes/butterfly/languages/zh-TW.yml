@@ -107,7 +107,7 @@ rightside:
 
 copy_copyright:
   author: 作者
-  link: 連結
+  # link: 連結
   source: 來源
   info: 著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 

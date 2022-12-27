@@ -106,7 +106,7 @@ rightside:
 
 copy_copyright:
   author: Author
-  link: Link
+  # link: Link
   source: Source
   info: Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
 
